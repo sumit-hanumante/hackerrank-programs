@@ -17,7 +17,7 @@ import java.util.List;
 
 public class CartesianOfGivenNLists {
 
-    private List<List<String>> cartesian(List<List<String>> inputLists) {
+    public List<List<String>> cartesian(List<List<String>> inputLists) {
 
         List<List<String>> result = new ArrayList<>();
 
